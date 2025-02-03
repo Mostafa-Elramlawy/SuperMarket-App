@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Military", "Military\Military.csproj", "{6CA7D6E6-6169-4731-BCA3-5DAB11C8B9E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1C05179D-9F84-4C7A-A965-627448A2F296}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SuperMarket App", "SuperMarket App\SuperMarket App.vdproj", "{40D33727-85A2-4032-8754-CF25D2CFCCF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CA7D6E6-6169-4731-BCA3-5DAB11C8B9E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA7D6E6-6169-4731-BCA3-5DAB11C8B9E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA7D6E6-6169-4731-BCA3-5DAB11C8B9E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA7D6E6-6169-4731-BCA3-5DAB11C8B9E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D33727-85A2-4032-8754-CF25D2CFCCF5}.Debug|Any CPU.ActiveCfg = Debug
+		{40D33727-85A2-4032-8754-CF25D2CFCCF5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B47E9725-A079-4E8E-976D-BC08776A70E1}
+	EndGlobalSection
+EndGlobal

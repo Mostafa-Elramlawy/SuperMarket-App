@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\Military\Military\bin\Debug\Military.exe.config
+C:\Users\hp\source\repos\Military\Military\bin\Debug\Military.exe
+C:\Users\hp\source\repos\Military\Military\bin\Debug\Military.pdb
+C:\Users\hp\source\repos\Military\Military\obj\Debug\Military.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Military\Military\obj\Debug\Military.SellForm.resources
+C:\Users\hp\source\repos\Military\Military\obj\Debug\Military.AddForm.resources
+C:\Users\hp\source\repos\Military\Military\obj\Debug\Military.Properties.Resources.resources
+C:\Users\hp\source\repos\Military\Military\obj\Debug\Military.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Military\Military\obj\Debug\Military.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Military\Military\obj\Debug\Military.exe
+C:\Users\hp\source\repos\Military\Military\obj\Debug\Military.pdb
